@@ -1,0 +1,4 @@
+{"level":"info","message":"Hello from Acquisition","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:10:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"Hello from Acquisition","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:11:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
