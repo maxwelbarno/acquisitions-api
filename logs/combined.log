@@ -2,3 +2,78 @@
 {"level":"info","message":"::1 - - [05/Oct/2025:08:10:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
 {"level":"info","message":"Hello from Acquisition","service":"acquisition-api"}
 {"level":"info","message":"::1 - - [05/Oct/2025:08:11:58 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"Hello from Acquisitions","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:40:41 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:40:48 +0000] \"GET /health HTTP/1.1\" 200 54 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:40:55 +0000] \"GET /health HTTP/1.1\" 200 54 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:41:24 +0000] \"GET /health HTTP/1.1\" 200 54 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:41:42 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:41:44 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::1 - - [05/Oct/2025:08:41:50 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:46:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:46:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:46:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:46:44 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:47:18 +0000] \"GET /api HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:48:19 +0000] \"GET /api HTTP/1.1\" 200 41 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:48:47 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:08:49:24 +0000] \"GET /api/auth/login HTTP/1.1\" 404 153 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:09:10:08 +0000] \"GET /api/auth/login HTTP/1.1\" 404 153 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:09:10:16 +0000] \"GET /api HTTP/1.1\" 200 41 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:09:10:23 +0000] \"POST /api/auth/login HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:14:06 +0000] \"POST /api/auth/login HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:14:09 +0000] \"POST /api/auth/login HTTP/1.1\" 200 29 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:14:40 +0000] \"POST /api/auth/register HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:16:56 +0000] \"POST /api/auth/register HTTP/1.1\" 201 99 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"error","message":"Error creating the user: TypeError: Cannot read properties of undefined (reading 'email')","service":"acquisition-api"}
+{"level":"error","message":"Registration error  Cannot read properties of undefined (reading 'email')","service":"acquisition-api","stack":"TypeError: Cannot read properties of undefined (reading 'email')\n    at createUser (file:///home/maxwel/Projects/devops/acquisitions-api/src/services/auth.service.js:34:33)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///home/maxwel/Projects/devops/acquisitions-api/src/controllers/auth.controller.js:20:18)"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:43:26 +0000] \"POST /api/auth/register HTTP/1.1\" 500 547 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"user admin@test.com created successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:44:20 +0000] \"POST /api/auth/register HTTP/1.1\" 201 99 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"user admin@test.com created successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:44:32 +0000] \"POST /api/auth/register HTTP/1.1\" 201 99 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"user admin@test.com created successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:51:35 +0000] \"POST /api/auth/register HTTP/1.1\" 201 100 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"user admin@test.com created successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:52:17 +0000] \"POST /api/auth/register HTTP/1.1\" 201 100 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"user admin@test.com created successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com registered successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:54:51 +0000] \"POST /api/auth/register HTTP/1.1\" 201 100 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"error","message":"Error creating the user: Error: User already exists","service":"acquisition-api"}
+{"level":"error","message":"Registration error  User already exists","service":"acquisition-api","stack":"Error: User already exists\n    at createUser (file:///home/maxwel/Projects/devops/acquisitions-api/src/services/auth.service.js:23:36)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async register (file:///home/maxwel/Projects/devops/acquisitions-api/src/controllers/auth.controller.js:20:18)"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:10:56:47 +0000] \"POST /api/auth/register HTTP/1.1\" 500 501 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:12:59:56 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:00:32 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"error","message":"Error authenticating user: Error: Invalid Password","service":"acquisition-api"}
+{"level":"error","message":"Login error  Invalid Password","service":"acquisition-api","stack":"Error: Invalid Password\n    at authenticateUser (file:///home/maxwel/Projects/devops/acquisitions-api/src/services/auth.service.js:72:13)\n    at async login (file:///home/maxwel/Projects/devops/acquisitions-api/src/controllers/auth.controller.js:56:18)"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:00:39 +0000] \"POST /api/auth/login HTTP/1.1\" 500 405 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:08:36 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:08:39 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:08:52 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:07 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:09 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:18 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:27 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User logged out successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:29 +0000] \"POST /api/auth/logout HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [05/Oct/2025:13:09:35 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
