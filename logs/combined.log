@@ -1029,3 +1029,237 @@
 {"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:17:54:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:17:54:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
 {"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:17:55:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:22:31 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:23:02 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:23:32 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:24:03 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:24:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [13/Oct/2025:19:25:03 +0000] \"GET /users HTTP/1.1\" 404 144 \"-\" \"vscode-restclient\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:25:04 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:25:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [13/Oct/2025:19:25:45 +0000] \"GET /api/users HTTP/1.1\" 200 917 \"-\" \"vscode-restclient\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:26:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:26:35 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:27:06 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:27:36 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:28:07 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:28:37 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:29:08 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:29:38 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:30:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:30:40 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [13/Oct/2025:19:31:10 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:56:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:57:12 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:57:43 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:04:58:07 +0000] \"GET /api/users HTTP/1.1\" 401 72 \"-\" \"vscode-restclient\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:58:13 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:58:44 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:04:58:53 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"vscode-restclient\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:59:14 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:04:59:45 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot request blocked","method":"POST","path":"/api/auth/login","service":"acquisition-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:04:59:49 +0000] \"POST /api/auth/login HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot request blocked","method":"POST","path":"/api/auth/login","service":"acquisition-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:04:59:59 +0000] \"POST /api/auth/login HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:00:15 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot request blocked","method":"POST","path":"/api/auth/login","service":"acquisition-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:00:15 +0000] \"POST /api/auth/login HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:00:45 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:01:17 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot request blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:01:28 +0000] \"GET /health HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:01:48 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"ip":"::ffff:172.18.0.1","level":"warn","message":"Bot request blocked","method":"GET","path":"/health","service":"acquisition-api","userAgent":"PostmanRuntime/7.48.0"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:01:51 +0000] \"GET /health HTTP/1.1\" 403 64 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:02:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:02:49 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:03:08 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:03:19 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:03:50 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"error","message":"Error authenticating user: Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: admin@test.com,1","service":"acquisition-api"}
+{"cause":{"name":"NeonDbError"},"level":"error","message":"Login error  Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: admin@test.com,1","params":["admin@test.com",1],"query":"select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2","service":"acquisition-api","stack":"Error: Failed query: select \"id\", \"name\", \"email\", \"password\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"email\" = $1 limit $2\nparams: admin@test.com,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///app/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async NeonHttpPreparedQuery.execute (file:///app/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async authenticateUser (file:///app/src/services/auth.service.js:58:28)\n    at async login (file:///app/src/controllers/auth.controller.js:56:18)"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:03:50 +0000] \"POST /api/auth/login HTTP/1.1\" 500 919 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:04:20 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:04:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:04:59 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:05:22 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:05:52 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:06:14 +0000] \"GET /api/users HTTP/1.1\" 200 917 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:06:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:06:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:07:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:07:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:08:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:08:55 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:09:07 +0000] \"PUT /api/users/6 HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:09:23 +0000] \"PUT /api/users/6 HTTP/1.1\" 403 78 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:09:25 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:09:56 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:10:26 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:10:42 +0000] \"PUT /api/users/6 HTTP/1.1\" 403 78 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:10:57 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:11:00 +0000] \"PUT /api/users/6 HTTP/1.1\" 403 78 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 1","service":"acquisition-api"}
+{"level":"info","message":"User guest@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:11:24 +0000] \"PUT /api/users/1 HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:11:27 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 1","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:11:52 +0000] \"PUT /api/users/1 HTTP/1.1\" 400 92 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:11:58 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:12:16 +0000] \"GET /api/users HTTP/1.1\" 200 915 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:12:28 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:12:59 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:13:29 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Deleting user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:13:37 +0000] \"DELETE /api/users/6 HTTP/1.1\" 403 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:13:57 +0000] \"GET /api/users HTTP/1.1\" 200 915 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:14:00 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:14:22 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:14:30 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:14:35 +0000] \"GET /api/users HTTP/1.1\" 200 915 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:15:01 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Deleting user: 6","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:15:12 +0000] \"DELETE /api/users/6 HTTP/1.1\" 403 74 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:15:31 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:16:02 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:16:32 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:17:03 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:17:33 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:18:04 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:18:34 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:18:58 +0000] \"PUT /api/users/2 HTTP/1.1\" 403 79 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:19:05 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:19:35 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"cause":{"name":"NeonDbError"},"level":"error","message":"Error getting user 2 Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1","params":[2,1],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2","service":"acquisition-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///app/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async NeonHttpPreparedQuery.execute (file:///app/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getUserById (file:///app/src/services/users.service.js:26:20)\n    at async updateUser (file:///app/src/services/users.service.js:52:22)\n    at async updateUserById (file:///app/src/controllers/users.controller.js:118:25)"}
+{"cause":{"name":"NeonDbError"},"level":"error","message":"Error updating user 2 Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1","params":[2,1],"query":"select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2","service":"acquisition-api","stack":"Error: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1\n    at NeonHttpPreparedQuery.queryWithCache (file:///app/node_modules/drizzle-orm/pg-core/session.js:41:15)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async NeonHttpPreparedQuery.execute (file:///app/node_modules/drizzle-orm/neon-http/session.js:45:20)\n    at async getUserById (file:///app/src/services/users.service.js:26:20)\n    at async updateUser (file:///app/src/services/users.service.js:52:22)\n    at async updateUserById (file:///app/src/controllers/users.controller.js:118:25)"}
+{"level":"error","message":"Error updating user: Failed query: select \"id\", \"email\", \"name\", \"role\", \"created_at\", \"updated_at\" from \"users\" where \"users\".\"id\" = $1 limit $2\nparams: 2,1","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:19:48 +0000] \"PUT /api/users/2 HTTP/1.1\" 500 975 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 2","service":"acquisition-api"}
+{"level":"info","message":"User admin2@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:19:56 +0000] \"PUT /api/users/2 HTTP/1.1\" 200 191 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:20:06 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 3","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:20:24 +0000] \"PUT /api/users/3 HTTP/1.1\" 403 78 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:20:36 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:20:40 +0000] \"GET /api/users HTTP/1.1\" 200 913 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:21:06 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:21:18 +0000] \"POST /api/auth/login HTTP/1.1\" 200 111 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (user)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 3","service":"acquisition-api"}
+{"level":"info","message":"User admin3@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:21:35 +0000] \"PUT /api/users/3 HTTP/1.1\" 200 191 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:21:37 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:21:47 +0000] \"POST /api/auth/login HTTP/1.1\" 200 112 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 3","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:22:07 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User admin4@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:22:08 +0000] \"PUT /api/users/3 HTTP/1.1\" 200 191 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 3","service":"acquisition-api"}
+{"level":"info","message":"User admin3@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:22:22 +0000] \"PUT /api/users/3 HTTP/1.1\" 200 190 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:22:28 +0000] \"POST /api/auth/login HTTP/1.1\" 200 112 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:22:38 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 4","service":"acquisition-api"}
+{"level":"info","message":"User admin4@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:22:53 +0000] \"PUT /api/users/4 HTTP/1.1\" 200 192 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:23:02 +0000] \"POST /api/auth/login HTTP/1.1\" 200 112 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:23:08 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Updating user: 5","service":"acquisition-api"}
+{"level":"info","message":"User admin5@test.com updated successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:23:27 +0000] \"PUT /api/users/5 HTTP/1.1\" 200 193 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:23:39 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:23:43 +0000] \"GET /api/users HTTP/1.1\" 200 909 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com authenticated successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin@test.com logged in successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:24:05 +0000] \"POST /api/auth/login HTTP/1.1\" 200 112 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:24:09 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Deleting user: 5","service":"acquisition-api"}
+{"level":"info","message":"User admin5@test.com deleted successfully","service":"acquisition-api"}
+{"level":"info","message":"User admin5@test.com deleted successfully","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:24:26 +0000] \"DELETE /api/users/5 HTTP/1.1\" 200 112 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"User authenticated: admin@test.com (admin)","service":"acquisition-api"}
+{"level":"info","message":"Getting users...","service":"acquisition-api"}
+{"level":"info","message":"::ffff:172.18.0.1 - - [14/Oct/2025:05:24:35 +0000] \"GET /api/users HTTP/1.1\" 200 762 \"-\" \"PostmanRuntime/7.48.0\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:24:40 +0000] \"GET /health HTTP/1.1\" 200 78 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:25:10 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:25:41 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:26:11 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:26:42 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:27:12 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:27:43 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:28:13 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:28:44 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:29:14 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:29:44 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:30:15 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:30:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:31:16 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:31:46 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:32:17 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:32:47 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:33:18 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:33:48 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:34:19 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:34:49 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:35:20 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:35:50 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:36:21 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:36:51 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:37:21 +0000] \"GET /health HTTP/1.1\" 200 75 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:37:52 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:38:22 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:38:53 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:39:23 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:39:54 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
+{"level":"info","message":"::ffff:127.0.0.1 - - [14/Oct/2025:05:40:24 +0000] \"GET /health HTTP/1.1\" 200 77 \"-\" \"-\"","service":"acquisition-api"}
