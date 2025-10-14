@@ -13,7 +13,7 @@ on:
 
 env:
   REGISTRY: docker.io
-  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/k8s-demo-api:latest
+  IMAGE_NAME: ${{ secrets.DOCKER_USERNAME }}/k8s-demo-api
 
 jobs:
   build-and-push:
